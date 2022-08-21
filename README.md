@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GauravGali
-- 👀 I’m interested in Full Stack Devolopment and eager to dive into A.I , M.L and BIG Data Analysis
-- 🌱 I’m currently learning React with Django Python Framework
+- 👀 I’m interested in Full Stack Devolopment and eager to dive into A.I , M.L and BIG Data Analysis and blockchain development
+- 🌱 I’m currently learning React with Django Python Framework and solidity for blockchain devolopment
 - 💞️ I’m looking to collaborate on Small projects as of now and do a lot more internships
 - 📫 Reach me mail at : gaurav.gali2k@gmail.com
 
