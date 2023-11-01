@@ -8,3 +8,19 @@
 GauravGali/GauravGali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+[Matlab Record.pdf](https://github.com/GauravGali/GauravGali/files/13223971/Matlab.Record.pdf)
